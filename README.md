@@ -1,4 +1,4 @@
-# Smart Home Electricity Load Management System
+# Smart Home Electricity Load Analysis
 
 📌 Project Overview
 
